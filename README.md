@@ -13,4 +13,6 @@ So this project is a page refresher I made using Python
 
 <h3>If you are using Firefox</h3>
 
-Don't.
+First install GeckoDriver from https://github.com/mozilla/geckodriver/releases
+Replace where it says "Chrome" with Firefox. 
+Then in the brackets replace the path of chromedriver to th epath of gecko driver.
